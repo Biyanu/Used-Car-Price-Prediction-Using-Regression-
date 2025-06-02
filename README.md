@@ -52,14 +52,7 @@ The used car market often suffers from pricing inconsistencies that can result i
 
 ---
 
-## 📊 Visual Highlights
-> *(Add these images to an `/images` folder and link them below)*
 
-- ![Correlation Heatmap](images/correlation_heatmap.png)
-- ![Predicted vs Actual Prices](images/predicted_vs_actual.png)
-- ![Feature Importance](images/feature_importance.png)
-
----
 
 ## 🚀 Future Enhancements
 - Deploy using Streamlit or Flask for real-time predictions
